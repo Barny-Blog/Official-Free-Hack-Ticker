@@ -2,6 +2,8 @@
 
 Der Free-Hack Ticker ist ein Echtzeit-Benachrichtigungssystem speziell für das Forum "Free-Hack.com". Es werden diverse aktuelle Informationen in Echtzeit vom Forum abgerufen und in Form von kleinen Benachrichtigungen am unteren Bildschirmrand angezeigt.
 
+---
+
 ## Was wird angezeigt?
 
 Der Free-Hack Ticker zeigt nachfolgende Informationen an:
@@ -23,7 +25,7 @@ Die veröffentlichte Version ist die 1.0, was im Klartext bedeutet, dass definti
 
 ![Free-Hack Ticker](https://www.barny-blog.de/wp-content/uploads/2018/03/fh_ticker.png)
 
-![Free-Hack Ticker Benachrichtigung](https://www.barny-blog.de/wp-content/uploads/2018/03/fh_ticker.png)
+![Free-Hack Ticker Benachrichtigung](https://www.barny-blog.de/wp-content/uploads/2018/03/fh_ticker_message.png)
 
 ## Livedemo
 
