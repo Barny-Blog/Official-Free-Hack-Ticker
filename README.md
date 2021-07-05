@@ -1,4 +1,4 @@
-# Fh-Ticker
+# Free-Hack Ticker
 
 Der Free-Hack Ticker ist ein Echtzeit-Benachrichtigungssystem speziell für das Forum "Free-Hack.com". Es werden diverse aktuelle Informationen in Echtzeit vom Forum abgerufen und in Form von kleinen Benachrichtigungen am unteren Bildschirmrand angezeigt.
 
